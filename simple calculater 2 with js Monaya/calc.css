@@ -1,0 +1,30 @@
+.styling
+{
+  background-color: lightblue;
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  padding: 5px;
+}
+h2
+{
+  text-align: center;
+  color: pink;
+  text-shadow: 2px 2px black;
+}
+input
+{
+  width: 280px;
+  padding: 5px;
+  margin: 5px;
+  height: 1.5em;
+  text-align: center;
+  font-size: 16px;
+}
+button
+{
+  width: 50px;
+  height: 50px;
+  margin:11px;
+  padding: 5px;
+}
